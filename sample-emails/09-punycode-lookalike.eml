@@ -1,0 +1,25 @@
+Return-Path: <security@xn--micrsoft-wyb.com>
+Received: from mail.xn--micrsoft-wyb.com (mail.xn--micrsoft-wyb.com [192.88.99.77])
+	by mx.corp.example (Postfix) with ESMTP id 7JK909
+	for <bob.smith@corp.example>; Wed, 08 Jul 2026 15:12:55 -0500
+Authentication-Results: mx.corp.example;
+	spf=pass smtp.mailfrom=xn--micrsoft-wyb.com;
+	dkim=none;
+	dmarc=none
+From: "Microsoft Security" <security@xn--micrsoft-wyb.com>
+To: bob.smith@corp.example
+Subject: New sign-in to your Microsoft account
+Date: Wed, 08 Jul 2026 15:12:53 -0500
+Message-ID: <msg441@xn--micrsoft-wyb.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<p>We noticed a new sign-in to your Microsoft account from an
+unrecognized device.</p>
+<p>If this wasn't you, secure your account now:</p>
+<p><a href="https://xn--micrsoft-wyb.com/account/security">Review recent activity</a></p>
+<p>Thanks,<br>The Microsoft account team</p>
+</body>
+</html>

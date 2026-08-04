@@ -1,0 +1,43 @@
+Return-Path: <bounce-md_9982@mail120.suw17.mcdlv.net>
+Received: from mail120.suw17.mcdlv.net (mail120.suw17.mcdlv.net [198.2.185.120])
+	by mx.example.com (Postfix) with ESMTPS id 7ABC999
+	for <jane.doe@example.com>; Tue, 07 Jul 2026 08:02:11 -0500
+Authentication-Results: mx.example.com;
+	spf=pass smtp.mailfrom=mail120.suw17.mcdlv.net;
+	dkim=pass header.d=pythonweekly.com;
+	dmarc=pass header.from=pythonweekly.com
+From: "Python Weekly" <newsletter@pythonweekly.com>
+To: jane.doe@example.com
+Subject: Python Weekly - Issue 712
+Date: Tue, 07 Jul 2026 08:02:09 -0500
+Message-ID: <a1b2c3d4e5@mail120.suw17.mcdlv.net>
+List-Unsubscribe: <https://pythonweekly.us2.list-manage.com/unsubscribe?u=abc&id=def>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="NEWSLETTER"
+
+--NEWSLETTER
+Content-Type: text/plain; charset="utf-8"
+
+Python Weekly - Issue 712
+
+This week: new CPython release notes, a deep dive on asyncio task groups,
+and a roundup of PyCon talks.
+
+Read online: https://www.pythonweekly.com/issues/712
+
+--NEWSLETTER
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<h1>Python Weekly - Issue 712</h1>
+<p>This week: new CPython release notes, a deep dive on
+<a href="https://docs.python.org/3/library/asyncio-task.html">asyncio task groups</a>,
+and a roundup of <a href="https://us.pycon.org/2026/schedule/">PyCon talks</a>.</p>
+<p><a href="https://www.pythonweekly.com/issues/712">Read this issue online</a></p>
+<p><img src="https://fonts.gstatic.com/tracking/pixel.png" width="1" height="1"></p>
+<p><a href="https://pythonweekly.us2.list-manage.com/unsubscribe?u=abc&amp;id=def">Unsubscribe</a></p>
+</body>
+</html>
+
+--NEWSLETTER--

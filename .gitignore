@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
+*.egg-info/
+
+# tooling caches
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+# uv cache (CI sets UV_CACHE_DIR here so it can be cached between runs)
+.uv-cache/

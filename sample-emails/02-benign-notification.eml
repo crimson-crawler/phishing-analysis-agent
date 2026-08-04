@@ -1,0 +1,37 @@
+Return-Path: <noreply@github.com>
+Received: from out-18.smtp.github.com (out-18.smtp.github.com [192.30.252.198])
+	by mx.corp.example (Postfix) with ESMTPS id 2AB771
+	for <bob.smith@corp.example>; Wed, 08 Jul 2026 09:15:44 -0500
+Authentication-Results: mx.corp.example;
+	spf=pass smtp.mailfrom=github.com;
+	dkim=pass header.d=github.com;
+	dmarc=pass header.from=github.com
+From: "GitHub" <noreply@github.com>
+To: bob.smith@corp.example
+Subject: [acme/widget] PR #42: Fix pagination off-by-one (merged)
+Date: Wed, 08 Jul 2026 09:15:42 -0500
+Message-ID: <acme/widget/pull/42/issue_event/99@github.com>
+List-Unsubscribe: <https://github.com/notifications/unsubscribe/ABCDEF>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="GH"
+
+--GH
+Content-Type: text/plain; charset="utf-8"
+
+Merged #42 into main.
+
+--
+View it on GitHub: https://github.com/acme/widget/pull/42
+
+--GH
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<p>Merged <b>#42</b> into <code>main</code>.</p>
+<p><a href="https://github.com/acme/widget/pull/42">View it on GitHub</a></p>
+<p><a href="https://github.com/notifications/unsubscribe/ABCDEF">Unsubscribe</a></p>
+</body>
+</html>
+
+--GH--

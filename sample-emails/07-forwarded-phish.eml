@@ -1,0 +1,61 @@
+Return-Path: <bob.smith@corp.example>
+Received: from mail.corp.example (mail.corp.example [192.88.99.9]) by
+ mx.corp.example (Postfix) with ESMTPS id 6NP334 for <soc@corp.example>; Wed,
+ 08 Jul 2026 14:05:10 -0500
+Authentication-Results: mx.corp.example; spf=pass smtp.mailfrom=corp.example;
+ dkim=pass header.d=corp.example; dmarc=pass header.from=corp.example
+From: "Bob Smith" <bob.smith@corp.example>
+To: soc@corp.example
+Subject: FW: suspicious email - please review
+Date: Wed, 08 Jul 2026 14:05:08 -0500
+Message-ID: <fw20260708@corp.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7285706443966158567=="
+
+--===============7285706443966158567==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi SOC team,
+
+This landed in my inbox this morning and looks fake. Forwarding the original =
+as an attachment.
+
+Bob
+
+--===============7285706443966158567==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+Content-Disposition: attachment; filename="original.eml"
+MIME-Version: 1.0
+
+From: "DHL Express" <tracking@dhl-redelivery-portal.icu>
+To: bob.smith@corp.example
+Subject: Your parcel is on hold - customs fee required
+Date: Wed, 08 Jul 2026 06:12:01 -0500
+Message-ID: <hold7781@dhl-redelivery-portal.icu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6488390276493951684=="
+
+--===============6488390276493951684==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your parcel DHL-7781-EU is on hold pending a customs fee of $2.99.
+Run the attached label tool to reprint your shipping label and
+schedule redelivery.
+
+--===============6488390276493951684==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="shipping-label-printer.exe"
+MIME-Version: 1.0
+
+TVqQAGZha2UtbGFiZWwtdG9vbC1iaW5hcnkATVqQAGZha2UtbGFiZWwtdG9vbC1iaW5hcnkATVqQ
+AGZha2UtbGFiZWwtdG9vbC1iaW5hcnkATVqQAGZha2UtbGFiZWwtdG9vbC1iaW5hcnkATVqQAGZh
+a2UtbGFiZWwtdG9vbC1iaW5hcnkATVqQAGZha2UtbGFiZWwtdG9vbC1iaW5hcnkATVqQAGZha2Ut
+bGFiZWwtdG9vbC1iaW5hcnkATVqQAGZha2UtbGFiZWwtdG9vbC1iaW5hcnkA
+
+--===============6488390276493951684==--
+
+--===============7285706443966158567==--

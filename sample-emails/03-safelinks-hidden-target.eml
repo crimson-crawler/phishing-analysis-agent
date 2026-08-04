@@ -1,0 +1,25 @@
+Return-Path: <accounts@vendor-payments.com>
+Received: from mail.vendor-payments.com (mail.vendor-payments.com [192.88.99.12])
+	by mx.corp.example (Postfix) with ESMTPS id 5CD882
+	for <bob.smith@corp.example>; Wed, 08 Jul 2026 10:22:31 -0500
+Authentication-Results: mx.corp.example;
+	spf=pass smtp.mailfrom=vendor-payments.com;
+	dkim=pass header.d=vendor-payments.com;
+	dmarc=pass header.from=vendor-payments.com
+From: "Accounts Receivable" <accounts@vendor-payments.com>
+To: bob.smith@corp.example
+Subject: Overdue invoice 8817 - updated remittance portal
+Date: Wed, 08 Jul 2026 10:22:29 -0500
+Message-ID: <inv8817.20260708@vendor-payments.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<p>Hello Bob,</p>
+<p>Invoice 8817 is 30 days overdue. We have moved to a new remittance
+portal; please settle at your earliest convenience:</p>
+<p><a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fremit-portal-secure.icu%2Fvendor%2F8817&amp;data=05%7C02">https://portal.vendor-payments.com/invoice/8817</a></p>
+<p>Regards,<br>Accounts Receivable<br>Vendor Payments Ltd.</p>
+</body>
+</html>

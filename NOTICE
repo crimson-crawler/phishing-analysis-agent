@@ -1,0 +1,22 @@
+phish-check
+Copyright 2026 Def-Logix
+
+This product includes software developed at Def-Logix (https://crimsoncrawler.com).
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file for the
+full terms. Redistributions of this work, with or without modification, must
+carry the attribution notices in this file, as required by Section 4(d) of the
+License.
+
+-------------------------------------------------------------------------------
+Trademarks
+
+"Crimson Crawler", the Crimson Crawler wordmark, and the Crimson Crawler spider
+mark — including the brand assets under `assets/` (`spider.png`,
+`crimson-crawler-logo-agent.svg`) — are trademarks of Def-Logix. They are not
+licensed under the Apache License, which expressly grants no trademark rights
+(Section 6).
+
+A fork may keep these marks only where they identify the origin of this code, as
+the attribution above requires. Using them to name, brand, or imply endorsement
+of a derived or unrelated product requires separate written permission.

@@ -1,0 +1,29 @@
+Return-Path: <sample-bec-ceo@gmail.com>
+Received: from mail-yw1-f182.google.com (mail-yw1-f182.google.com [209.85.128.182])
+	by mx.corp.example (Postfix) with ESMTPS id 3GH556
+	for <bob.smith@corp.example>; Wed, 08 Jul 2026 13:47:09 -0500
+Authentication-Results: mx.corp.example;
+	spf=pass smtp.mailfrom=gmail.com;
+	dkim=pass header.d=gmail.com;
+	dmarc=pass header.from=gmail.com
+From: "Dana Whitfield (CEO)" <sample-bec-ceo@gmail.com>
+To: bob.smith@corp.example
+Subject: Quick favor - are you at your desk?
+Date: Wed, 08 Jul 2026 13:47:07 -0500
+Message-ID: <CAF=x1@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Bob,
+
+I'm heading into back-to-back board meetings and can't take calls.
+I need you to handle something discreetly - we're surprising the team
+with gift cards and I need you to purchase 6 x $200 Apple gift cards
+from the store nearest you. Keep this between us until the announcement.
+
+Scratch the codes and email them to me here as soon as you have them.
+I'll approve the expense report personally.
+
+Sent from my iPhone
+
+Dana

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 838 184" role="img" aria-labelledby="title desc">
+  <title id="title">Crimson Crawler AI agent</title>
+  <desc id="desc">Crimson Crawler wordmark in white and crimson on a dark field, with the AI agent mark.</desc>
+  <rect width="838" height="184" rx="28" fill="#0A0A0B"/>
+  <rect x="1" y="1" width="836" height="182" rx="27" fill="none" stroke="#27272A" stroke-width="2"/>
+  <path d="M46 42v100" stroke="#EF4444" stroke-width="6" stroke-linecap="round"/>
+  <text x="76" y="119" fill="#F4F4F5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="74" font-weight="750" letter-spacing="-2.2" textLength="540" lengthAdjust="spacingAndGlyphs">Crimson <tspan fill="#EF4444">Crawler</tspan></text>
+  <path d="M668 52v80" stroke="#27272A" stroke-width="2" stroke-linecap="round"/>
+  <g transform="translate(720 56) scale(3)">
+    <rect width="24" height="24" rx="4.5" fill="#F4F4F5"/>
+    <text x="12" y="17.2" text-anchor="middle" fill="#0A0A0B" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.6" font-weight="800" letter-spacing="-0.5" textLength="13.2" lengthAdjust="spacingAndGlyphs">AI</text>
+  </g>
+</svg>
